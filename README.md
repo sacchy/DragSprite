@@ -1,7 +1,5 @@
-DragSprite
+DragSprite(cocos2d)
 ==========
-
-cocos2dを利用しています。
 
 早苗をドラッグできます。
 
